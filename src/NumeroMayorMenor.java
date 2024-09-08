@@ -34,4 +34,4 @@ public class NumeroMayorMenor {
         scanner.close();
     }
 }
-}
+
