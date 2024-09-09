@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ejercicio1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Ingrese un número entero: ");
+        System.out.print("Ingrese un número: ");
         int n = scanner.nextInt();
 
         int suma = 0;
