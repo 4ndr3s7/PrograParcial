@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/parcial.iml" filepath="$PROJECT_DIR$/parcial.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PrograParcial.iml" filepath="$PROJECT_DIR$/.idea/PrograParcial.iml" />
+>>>>>>> Johstin
     </modules>
   </component>
 </project>
